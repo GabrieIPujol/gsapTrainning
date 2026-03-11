@@ -1,6 +1,6 @@
 {
   "name": "gsap",
-   "homepage": "https://GabrieIPujol.github.io/gsapTrainning",
+  "homepage": "https://GabrieIPujol.github.io/gsapTrainning",
   "private": true,
   "version": "0.0.0",
   "type": "module",
